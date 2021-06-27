@@ -1,7 +1,7 @@
 # node-test
 nodejs test demos
 
-平时写的一些nodejs的小demo，不定时更新：
+
 
 ## 在线预览
 
